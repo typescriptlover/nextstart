@@ -1,9 +1,10 @@
+import type { NextPage } from 'next';
+
+import Link from '@/components/Link';
 import GitHub from '@/components/icons/GitHub';
 import Tailwind from '@/components/icons/Tailwind';
 import TypeScript from '@/components/icons/TypeScript';
 import Vercel from '@/components/icons/Vercel';
-import Link from '@/components/Link';
-import type { NextPage } from 'next';
 
 const Index: NextPage = () => {
    return (
